@@ -3,7 +3,5 @@
 ### NOM : Silvestre
 ### Prénom : Franck
 ### Groupe de TP : 
-- [X] TD1
-- [ ] TD2
-
-#Done
+- [ ] TD1
+- [X] TD2
